@@ -10,6 +10,7 @@ namespace UCRMSApp.Models
     {
         public DBContext() : base() { }
         public DbSet<Department> Departments { set; get; }
-        public DbSet<Course> Courses { set; get; } 
+        public DbSet<Course> Courses { set; get; }
+        public DbSet<Semester> Semesters { set; get; } 
     }
 }

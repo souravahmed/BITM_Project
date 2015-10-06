@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web;
+using System.Web.Helpers;
 using System.Web.Mvc;
 using UCRMSApp.Models;
 
@@ -36,21 +37,10 @@ namespace UCRMSApp.Controllers
         {
             if (ModelState.IsValid)
             {
-                if (db.Departments.Any(d => d.DepartmentName == department.DepartmentName))
-                {
-                    ModelState.AddModelError("", "Department name already exists");
-                }
-                else if (db.Departments.Any(d => d.DepartmentCode == department.DepartmentCode))
-                {
-                    ModelState.AddModelError("", "Department Code already exists");
-                }
-                else
-                {
-
                     db.Departments.Add(department);
                     db.SaveChanges();
-                    return RedirectToAction("Index");
-                }
+                    ViewBag.SuccessMessage = "Successfully Saved";
+                    return View();
                
             }
 
@@ -66,6 +56,17 @@ namespace UCRMSApp.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        public JsonResult IsCodeExists(string departmentCode)
+        {
+            return Json(!db.Departments.Any(x=> x.DepartmentCode == departmentCode), JsonRequestBehavior.AllowGet);
+        }
+
+        
+        public JsonResult IsNameExists(string departmentName)
+        {
+            return Json(!db.Departments.Any(x=> x.DepartmentName == departmentName), JsonRequestBehavior.AllowGet);
         }
     }
 }

@@ -50,6 +50,5 @@ E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Ow
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.xml
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.xml
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.csprojResolveAssemblyReference.cache
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.dll
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.pdb

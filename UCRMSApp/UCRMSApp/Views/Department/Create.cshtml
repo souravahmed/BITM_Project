@@ -7,6 +7,9 @@
 
 <h2>Create</h2>
 
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
 
 @using (Html.BeginForm()) 
 {
@@ -39,6 +42,8 @@
         </div>
     </div>
 }
+
+<h3>@ViewBag.SuccessMessage</h3>
 
 <div>
     @Html.ActionLink("Back to List", "Index")
