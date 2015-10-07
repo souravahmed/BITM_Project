@@ -57,6 +57,7 @@ namespace UCRMSApp.Controllers
             base.Dispose(disposing);
         }
 
+
         public JsonResult IsCodeExists(string courseCode)
         {
             return Json(!db.Courses.Any(x=> x.CourseCode == courseCode), JsonRequestBehavior.AllowGet);

@@ -44,6 +44,9 @@ namespace UCRMSApp.Models
    
         public virtual Semester Semester { set; get; }
 
+        public virtual ICollection<CourseAssignToTeacher> CourseAssignToTeachers { set; get; } 
+
+      
      
 
     }

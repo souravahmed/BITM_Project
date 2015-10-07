@@ -52,3 +52,166 @@ E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Ow
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.dll
 E:\PROJECT\Visual Studio Project\BITM_Project\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.pdb
+I:\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll.config
+I:\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll
+I:\UCRMSApp\UCRMSApp\bin\UCRMSApp.pdb
+I:\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.dll
+I:\UCRMSApp\UCRMSApp\bin\EntityFramework.dll
+I:\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Web.Infrastructure.dll
+I:\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.dll
+I:\UCRMSApp\UCRMSApp\bin\Owin.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Razor.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.dll
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.dll
+I:\UCRMSApp\UCRMSApp\bin\WebGrease.dll
+I:\UCRMSApp\UCRMSApp\bin\EntityFramework.xml
+I:\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.xml
+I:\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.Razor.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.xml
+I:\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.xml
+I:\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.pdb
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+I:\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.dll
+I:\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.pdb
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll.config
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\UCRMSApp.pdb
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\EntityFramework.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Owin.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Razor.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\WebGrease.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\EntityFramework.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.Razor.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.dll
+C:\Users\zuel ahmed\Desktop\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\UCRMSApp.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\UCRMSApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.dll
+C:\Users\Web App Develop .Net\Desktop\Our UMS\UCRMSApp\UCRMSApp\obj\Debug\UCRMSApp.pdb

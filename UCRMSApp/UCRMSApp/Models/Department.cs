@@ -31,6 +31,9 @@ namespace UCRMSApp.Models
         public  string DepartmentName { set; get; }
 
         public virtual ICollection<Course> Courses { set; get; }
+        public virtual ICollection<Teacher> Teachers { set; get; }
+
+        public virtual ICollection<CourseAssignToTeacher> CourseAssignToTeachers { set; get; } 
    
     }
 }
