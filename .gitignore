@@ -1,4 +1,6 @@
-# Created by https://www.gitignore.io/api/visualstudio
+# Created by https://www.gitignore.io/api/,visualstudio
+
+#!! ERROR:  is undefined. Use list command to see defined gitignore types !!#
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -217,3 +219,5 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+
