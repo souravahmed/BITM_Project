@@ -18,11 +18,14 @@ namespace UCRMSApp.Models
         public string TeacherName { get; set; }
          [Required]         
         public string Address{ get; set; }
-        [Required]
+         [Required(ErrorMessage = "Please enter your email address")]
+         [DataType(DataType.EmailAddress)]
         [Remote("IsEmailExists", "Teacher", ErrorMessage = "Email Must Be Unique.")]
+        [RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}", ErrorMessage = "Please enter correct email")]
         public string Email { get; set; }
         [Required]
-        [DisplayName("Contac Number")]
+        [DisplayName("Contact Number")]
+        [RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{5})$", ErrorMessage = "Enter valid number")]
         public string ContacNumber { get; set; }
         [Required(ErrorMessage = "Select a Designation")]
         [DisplayName("Designation")]
